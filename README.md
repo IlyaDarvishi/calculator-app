@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calculator_app
 
 A new Flutter project.
@@ -14,3 +15,22 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Calculator App
+
+A simple iOS-style calculator built with Flutter as one of my early projects.
+
+## Features
+- Basic arithmetic: `+` `-` `*` `/` `%`
+- Backspace and full reset
+- Clean dark UI
+
+## Getting Started
+```bash
+flutter pub get
+flutter run
+```
+
+## Dependencies
+- [math_expressions](https://pub.dev/packages/math_expressions)
+>>>>>>> 3cd3628aa113b67a48c2bfb9561f78e0f2b8ab66
