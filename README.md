@@ -33,4 +33,6 @@ flutter run
 
 ## Dependencies
 - [math_expressions](https://pub.dev/packages/math_expressions)
->>>>>>> 3cd3628aa113b67a48c2bfb9561f78e0f2b8ab66
+
+## Preview
+![Calculator App](assets/screenshots/screenshot.png)
